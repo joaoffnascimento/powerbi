@@ -1,0 +1,1 @@
+https://docs.microsoft.com/pt-br/power-bi/sample-customer-profitability#get-the-excel-workbook-for-this-sample
